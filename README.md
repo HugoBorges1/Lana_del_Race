@@ -122,3 +122,5 @@ O código é todo orientado a objetos e está dividido no pacote `Classes`:
     * Usa `javax.sound.sampled.Clip` para tocar e parar músicas (`tocarMusicaV`, `pararMusica`) e efeitos (`tocarEfeitoSom`).
 
 *(Nota: O arquivo `ThreadCarro.java` existe, mas a lógica de threading principal é implementada diretamente em `JogoDeCorrida.java` através de uma expressão lambda `new Thread(() -> { ... })`)*.
+
+*(Nota: Este projeto foi desenvolvido em outubro de 2024 durante a disciplina de computação gráfica )*.
